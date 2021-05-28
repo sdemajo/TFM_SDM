@@ -10,4 +10,6 @@ This repository contains the code developed to process and analyze the data duri
 - Study performed at the Barcelona Biomedical Genomics Lab (IRB Barcelona): https://bbglab.irbbarcelona.org/
 - Date: February-June 2021
 
+The following figure shows the workflow followed to analyse the data from the UK Biobank (https://www.ukbiobank.ac.uk/), which constitutes the core of this study:
+
 ![alt text](Methods_diagram.svg "Methods diagram")
