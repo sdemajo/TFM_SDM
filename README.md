@@ -11,5 +11,4 @@ This repository contains the code developed to process and analyze the data duri
 - Directed by: **Núria López-Bigas** and **Abel González-Pérez**
 
 - Academic supervisor UOC: **Óscar Reina García**
--
 - Date: June 2021
