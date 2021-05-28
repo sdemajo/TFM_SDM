@@ -10,3 +10,4 @@ This repository contains the code developed to process and analyze the data duri
 - Study performed at the Barcelona Biomedical Genomics Lab (IRB Barcelona): https://bbglab.irbbarcelona.org/
 - Date: February-June 2021
 
+![alt text](Methods diagram.svg "Methods diagram")
