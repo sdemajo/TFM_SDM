@@ -20,3 +20,7 @@ The other six folders contain Jupyter Notebooks used to analyse the data, as fol
 
 1. ***UKB_extractCHgenes_notebooks***: extraction of 65 CH driver gene variant data from UKB.
 2. ***UKB_filterCHvariants_notebooks***: arranging, filtering, and annotation of variants from CH driver genes from UKB.
+3. ***UKB_identifyCHmutations_notebooks***: identification of CH mutations in CH driver genes from UKB.
+4. ***UKB_ageassociation***: analysis of the association of the CH mutations with age.
+5. ***gnomAD_notebooks***: processing and analysis of gnomAD data.
+6. ***MSKCC_notebooks***: processing and analysis of MSKCC data.
